@@ -28,7 +28,7 @@ Download [Git](https://git-scm.com/downloads) and [Go](https://golang.org/dl/)<b
 #### Open a terminal and type these commands:
 ```sh
 cd /usr/local
-git clone https://github.com/0l1v3rr/cli-file-manager.git
+git clone https://github.com/dotnafis/cli-file-manager.git
 cd cli-file-manager
 # The build may take a couple of tries
 make build
